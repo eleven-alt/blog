@@ -1,6 +1,6 @@
 
-TITLE: 
-24 News - 100% Fully Responsive Free HTML5 Bootstrap Template
+TITLE:
+Fully Responsive
 
 AUTHOR:
 designed by Eleven-alt
