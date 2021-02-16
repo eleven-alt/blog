@@ -3,7 +3,7 @@ TITLE:
 24 News - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+designed by Eleven-alt
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
